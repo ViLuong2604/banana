@@ -1,0 +1,8 @@
+.banana{
+    display:  flex;
+    align-items: center;
+}
+.banana *{
+ padding: 15px;
+ cursor: pointer;
+}
